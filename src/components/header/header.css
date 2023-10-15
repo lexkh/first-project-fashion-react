@@ -25,7 +25,7 @@ column-gap: 65px;
 align-items: center;
 }
 .header__nav a{
-    color: var(--textColor);
+    color: #2c2b61;
     font-weight: 500;
     font-size: 20px;
     line-height: 33px;
@@ -34,6 +34,7 @@ align-items: center;
 .header__nav-btn{
     padding: 13px 22px 17px;
     background-color: var(--yellow);
+    color: #2c2b61;
     border-radius: 7px;;
     font-weight: 500;
     font-size: 20px;
