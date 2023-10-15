@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 This is my first project with React
 >>>>>>> 4e8b1ccdd2e594d87d2c81f7686b05e1cd3333ba
 
