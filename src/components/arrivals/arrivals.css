@@ -2,8 +2,9 @@
 padding-top: 120px;
 padding-bottom: 143px;
 }
-.arrivals__header{
+.arrivals__header h2{
     margin-bottom: 100px;
+    text-align: center;
 }
 .arrivals__cards{
     display: flex;
